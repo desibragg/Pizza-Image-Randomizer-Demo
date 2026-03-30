@@ -22,7 +22,7 @@ This project demonstrates a microservices architecture where independent service
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/Pizza-Image-Randomizer-Demo.git
+git clone https://github.com/desibragg/Pizza-Image-Randomizer-Demo.git
 cd Pizza-Image-Randomizer-Demo
 ```
 
